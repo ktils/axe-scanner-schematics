@@ -33,10 +33,10 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ktils/axe-scan-generator.git"
+    "url": "git+https://github.com/ktils/axe-scanner-schematics.git"
   },
   "bugs": {
-    "url": "https://github.com/ktils/axe-scan-generator/issues"
+    "url": "https://github.com/ktils/axe-scanner-schematics/issues"
   },
-  "homepage": "https://github.com/ktils/axe-scan-generator/blob/main/axe-scanner/README.md"
+  "homepage": "https://github.com/ktils/axe-scanner-schematics/blob/main/README.md"
 }
